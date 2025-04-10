@@ -1,0 +1,46 @@
+{
+    "일반": {
+        "늑대": {
+            "name": "늑대",
+            "health": 35,
+            "damage": 5,
+            "level": 1,
+            "exp": 35,
+            "drop": 15
+        },
+        "슬라임": {
+            "name": "슬라임",
+            "health": 55,
+            "damage": 9,
+            "level": 2,
+            "exp": 60,
+            "drop": 20
+        },
+        "고블린": {
+            "name": "고블린",
+            "health": 120,
+            "damage": 13,
+            "level": 3,
+            "exp": 100,
+            "drop": 35
+        }
+    },
+    "보스": {
+        "오우거": {
+            "name": "오우거",
+            "health": 450,
+            "damage": 35,
+            "level": 7,
+            "exp": 500,
+            "drop": 150
+        },
+        "킹슬라임": {
+            "name": "킹슬라임",
+            "health": 200,
+            "damage": 15,
+            "level": 3,
+            "exp": 200,
+            "drop": 35
+        }
+    }
+}
